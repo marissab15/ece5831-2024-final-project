@@ -6,6 +6,7 @@ __pycache__/
 
 # Data
 DATA/
+Ignore_files/
 
 # C extensions
 *.so
