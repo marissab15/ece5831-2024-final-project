@@ -10,7 +10,7 @@ https://drive.google.com/drive/folders/1yIysW4WaeVLc-_7DIn2vdKjeDDuGeqJw
 https://drive.google.com/drive/folders/142W1uRhmNoEc6YM8mJFNw8-TKN8El07C
 
 # Presentation - video
-tbd
+https://youtu.be/1eQ3O390VBk
 
 # Report
 https://drive.google.com/drive/folders/1MvZE3igmzx1eUXNmSG82owWPgAQ-SmHr
