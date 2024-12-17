@@ -1,7 +1,6 @@
 # ece5831-2024-final-project
-
-Explain your project.
-Add all links to the report, presentation, video, and datasets.
+## Heisman Prediction Machine
+This project predicts the winner of the college football Heisman trophy through a collection of three models. Two models identify the top quarterback and running back, respectively, and the third model selects one of these two players as the predicted Heisman winner. 
 
 # Datasets
 https://drive.google.com/drive/folders/1yIysW4WaeVLc-_7DIn2vdKjeDDuGeqJw
